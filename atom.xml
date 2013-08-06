@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[死亡笔记]]></title>
+  <title><![CDATA[Death Note]]></title>
   <link href="http://forsake.github.io/atom.xml" rel="self"/>
   <link href="http://forsake.github.io/"/>
-  <updated>2013-08-06T19:44:04+08:00</updated>
+  <updated>2013-08-06T19:49:21+08:00</updated>
   <id>http://forsake.github.io/</id>
   <author>
     <name><![CDATA[forsake]]></name>
